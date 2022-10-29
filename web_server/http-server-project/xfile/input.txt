@@ -1,0 +1,1 @@
+NodeJS is an event-driven, non-blocking I/O model using JavaScript as its main language 😄

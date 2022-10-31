@@ -1,0 +1,5 @@
+
+ The result from myFirst (28) and the result from mySecond (42) 
+ The result from myFirst (28) 
+ and
+ The result from mySecond (42) 
